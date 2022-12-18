@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Wenyuan Wu</h1>
+<h1 align="center">Hi 👋, I'm Wenyuan "Rafael" Wu</h1>
 <h3 align="center">A passionate computational linguist in Switzerland</h3>
 
 - 🔭 I’m currently working on [v2ray_lvis](https://github.com/Courier47/v2ray_lvis)
