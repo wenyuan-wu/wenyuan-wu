@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wenyuan "Rafael" Wu</h1>
 <h3 align="center">Computational linguist | Conversitional AI | Information System | Research Assistant at University of Zurich</h3>
 
-- 🔭 I’m currently working on [v2ray_lvis](https://github.com/Courier47/v2ray_lvis)
+- 🔭 I’m currently working on several [papers](https://www.ifi.uzh.ch/en/imrg/people/wenyuan.html) ...
 
 - 🌱 I’m currently learning **Docker**
 
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **natural language processing**
 
-- 📫 How to reach me **rafael.wu@pm.me**
+- 📫 How to reach me **wenyuan@ifi.uzh.ch**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/wenyuan-wu/](https://www.linkedin.com/in/wenyuan-wu/)
 
