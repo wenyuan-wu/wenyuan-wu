@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wenyuan "Rafael" Wu</h1>
 <h3 align="center">Computational linguist | Conversitional AI | Information System | Research Assistant at University of Zurich</h3>
 
-- 🔭 I’m currently working on several [papers]([https://www.ifi.uzh.ch/en/imrg/people/wenyuan.html](https://scholar.google.com/citations?user=M41IzMIAAAAJ&hl=en)) ...
+- 🔭 I’m currently working on several [papers](https://scholar.google.com/citations?user=M41IzMIAAAAJ&hl=en) ...
 
 - 🌱 I’m currently learning **Docker**
 
